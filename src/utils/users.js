@@ -46,3 +46,4 @@ module.exports = {
     getUser,
     getUsersInRoom
 }
+/* Refactored for performance */
