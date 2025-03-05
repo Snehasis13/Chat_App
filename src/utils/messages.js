@@ -18,3 +18,4 @@ module.exports = {
     generateMessage,
     generateLocationMessage
 }
+/* Refactored for performance */
