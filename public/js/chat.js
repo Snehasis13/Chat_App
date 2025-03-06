@@ -105,3 +105,4 @@ socket.emit('join', { username, room }, (error) => {
         location.href = '/'
     }
 })
+/* Refactored for performance */
