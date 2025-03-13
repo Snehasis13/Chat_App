@@ -10,3 +10,4 @@ run :- npm run dev
 // debugging log
  
 // secure input
+// Fixed alignment issue
