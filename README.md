@@ -11,3 +11,4 @@ run :- npm run dev
  
 // secure input
 // Fixed alignment issue
+// optimized rendering
