@@ -109,3 +109,4 @@ socket.emit('join', { username, room }, (error) => {
 // Fixed alignment issue
 /* Refactored for performance */
 // update logic
+// secure input
