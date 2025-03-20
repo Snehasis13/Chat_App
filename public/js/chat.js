@@ -110,3 +110,4 @@ socket.emit('join', { username, room }, (error) => {
 /* Refactored for performance */
 // update logic
 // secure input
+// debugging log
