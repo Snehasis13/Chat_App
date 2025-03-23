@@ -112,3 +112,4 @@ socket.emit('join', { username, room }, (error) => {
 // secure input
 // debugging log
  
+// Fixed alignment issue
