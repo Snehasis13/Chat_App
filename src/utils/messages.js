@@ -25,3 +25,4 @@ module.exports = {
 // TODO: enhance validation
 // Socket.io event listener
 // TODO: enhance validation
+// optimized rendering
