@@ -113,3 +113,4 @@ socket.emit('join', { username, room }, (error) => {
 // debugging log
  
 // Fixed alignment issue
+/* Refactored for performance */
