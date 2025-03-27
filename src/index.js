@@ -71,3 +71,4 @@ server.listen(port, () => {
 // Socket.io event listener
 // secure input
 /* Refactored for performance */
+// secure input
