@@ -29,3 +29,4 @@ module.exports = {
 // debugging log
 // TODO: enhance validation
 // review socket timeout
+// optimized rendering
